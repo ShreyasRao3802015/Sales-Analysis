@@ -45,7 +45,7 @@ The first part of the process was to combine the raw data which was available to
 
 <h3> 1) What was the best month for sales? How much money was earned in that months? </h3>
   <p>
-    <img src="Images/Analysis_1.png"
+    <img src="Images/Analysis_1.png" width=500>
     The highest sales occurs in the month of December. This surely doesnot come as a surprise owing to Christmas and New Year shopping spree.
   </p>
   
