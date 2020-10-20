@@ -4,7 +4,6 @@
 <ul>
   <li><a href='#overview'>Overview</a></li>
   <li><a href='#motivation'>Motivation</a></li>
-  <li>Motivation</li>
   
 </ul> 
 
@@ -25,7 +24,7 @@ The first part of the process was to combine the raw data which was available to
 </p>
 
 <h3> Raw Data, Info </h3>
-  <img scr= 'Images/Raw Data.png'>
+  <img scr= "Images/Raw Data.png">
 
 <br>
 
