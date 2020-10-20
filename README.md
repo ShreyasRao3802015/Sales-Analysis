@@ -24,7 +24,7 @@ The first part of the process was to combine the raw data which was available to
 </p>
 
 <h3> Raw Data, Info </h3>
-  <img scr= "Images/Raw Data.png">
+  ![](https://github.com/ShreyasRao3802015/Sales-Analysis/blob/main/Images/Raw%20Data.png)
 
 <br>
 
