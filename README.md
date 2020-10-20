@@ -40,12 +40,6 @@ This particular category (sales dataset) caught my attention because my first cl
 
 
 <h2 id = 'analysis'> Analysis Highlights </h2>
- <div class="row">
-  <div class="column">
-    <img src="Images/Clean Data.png" width="500" >
-  </div>
-  <div class="column">
-    <img src="Images/Clean Data Info.png" width="500">
-  </div>
-</div> 
+The first part of the process was to combine the raw data which was available to us in 12 csv file for the 12 months into 1 DataFrame. After this, the data had to be cleaned, converted into respective data types and new columns had to be derived from existing columns before proceeding with the analysis.
+ 
 
