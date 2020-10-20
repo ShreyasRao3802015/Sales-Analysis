@@ -28,7 +28,7 @@ The first part of the process was to combine the raw data which was available to
   <img src= "Images/Raw Data Info.png" width="400", height="280"/>
 
 <h3> Clean Data Info</h3>
-  <img src= "Images/Clean Data.png" width="800", height="300"/>
+  <img src= "Images/Clean Data.png" width="800", height="390"/>
   <img src= "Images/Clean Data Info.png" width="400", height="280"/>
 
 
