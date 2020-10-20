@@ -23,8 +23,9 @@ I have used the Python Libraries Pandas and Matplotlib for answering the followi
 The first part of the process was to combine the raw data which was available to us in 12 csv file for the 12 months into 1 DataFrame. After this, the data had to be cleaned, converted into respective data types and new columns had to be derived from existing columns before proceeding with the analysis.
 </p>
 
-
+<br>
 <h2 id = 'motivation'> Motivation </h2>
+I started pursuing Post Graduate Program in Data Science Engineering at Great Learning during the pandemic in 2020. After we had covered Numpy Pandas and Visualization using Matplotlib and Seaborn in September, I realised that theory and labs don't have any impact as long as one doesnot have handson experience with real life messy data. So I decided to take on a dataset from kaggle and get my hands dirty!
 <p>
 
 </p>
