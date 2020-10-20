@@ -24,7 +24,7 @@ The first part of the process was to combine the raw data which was available to
 </p>
 
 <h3> Raw Data Info</h3>
-  <img src= "Images/Raw Data.png" width="900", height="540"/>
+  <img src= "Images/Raw Data.png" width="1100", height="660"/>
 <br>
 
 <h3> Clean Data Info</h3>
