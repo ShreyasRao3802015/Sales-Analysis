@@ -23,14 +23,6 @@ I have used the Python Libraries Pandas and Matplotlib for answering the followi
 The first part of the process was to combine the raw data which was available to us in 12 csv file for the 12 months into 1 DataFrame. After this, the data had to be cleaned, converted into respective data types and new columns had to be derived from existing columns before proceeding with the analysis.
 </p>
 
-<h3> Raw Data Info</h3>
-  <img src= "Images/Raw_Data.png" width="800", height="300"/>
-  <img src= "Images/Raw Data Info.png" width="400", height="280"/>
-
-<h3> Clean Data Info</h3>
-  <img src= "Images/Clean Data.png" width="800", height="390"/>
-  <img src= "Images/Clean Data Info.png" width="400", height="280"/>
-
 
 <h2 id = 'motivation'> Motivation </h2>
 <p>
