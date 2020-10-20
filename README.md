@@ -42,10 +42,10 @@ This particular category (sales dataset) caught my attention because my first cl
 <h2 id = 'analysis'> Analysis Highlights </h2>
  <div class="row">
   <div class="column">
-    <img src="Images/Clean Data.png" alt="Snow" style="width:50%">
+    <img src="Images/Clean Data.png" alt="Snow" >
   </div>
   <div class="column">
-    <img src="Images/Clean Data Info.png" style="width:50%">
+    <img src="Images/Clean Data Info.png" >
   </div>
 </div> 
 
