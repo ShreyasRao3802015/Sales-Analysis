@@ -20,14 +20,17 @@ I have used the Python Libraries Pandas and Matplotlib for answering the followi
   <li>5) What product was sold the most? Any insights would be appreciated..</li>
   </ul>
 
-The first part of the process was to combine the raw data which was available to us in 12 csv file for the 12 months into 1 DataFrame. After this, the data had to be cleaned and converted into respective data types before proceeding with the analysis.
+The first part of the process was to combine the raw data which was available to us in 12 csv file for the 12 months into 1 DataFrame. After this, the data had to be cleaned, converted into respective data types and new columns had to be derived from existing columns before proceeding with the analysis.
 </p>
 
 <h3> Raw Data Info</h3>
   <img src= "Images/Raw Data.png" width="500", height="300"/>
   <img src= "Images/Raw Data Info.png" width="400", height="240"/>
-
 <br>
+
+<h3> Clean Data Info</h3>
+  <img src= "Images/Clean Data.png" width="500", height="300"/>
+  <img src= "Images/Clean Data Info.png" width="400", height="240"/>
 
 
 <h2 id = 'motivation'> Motivation </h2>
