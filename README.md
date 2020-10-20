@@ -30,7 +30,7 @@ The first part of the process was to combine the raw data which was available to
 
 <h3> Clean Data Info</h3>
   <img src= "Images/Clean Data.png" width="500", height="300"/>
-  <img src= "Images/Clean Data Info.png" width="400", height="240"/>
+  <img src= "Images/Clean Data Info.png" width="400", height="280"/>
 
 
 <h2 id = 'motivation'> Motivation </h2>
