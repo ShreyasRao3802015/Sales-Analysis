@@ -3,9 +3,9 @@
 <br>
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Overview</li>
+  <li>Motivation</li>
+  Milk
 </ul> 
 
 
