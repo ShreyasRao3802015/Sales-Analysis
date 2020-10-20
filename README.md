@@ -19,7 +19,9 @@ I have used the Python Libraries Pandas and Matplotlib for answering the followi
   <li>3) At what time should we display advertisements to maximize the liklihood of customer's buying product?</li>
   <li>4) What are the products that are most often sold together?</li>
   <li>5) What product was sold the most? Any insights would be appreciated..</li>
-  </ul> 
+  </ul>
+
+The first part of the process was to combine the raw data which was available to us in 12 csv file for the 12 months into 1 DataFrame. After this, the data had to be cleaned and converted into respective data types before proceeding with the analysis.
 </p>
 
 <br>
