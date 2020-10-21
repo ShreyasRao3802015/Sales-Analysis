@@ -102,6 +102,23 @@ The first part of the process was to combine the raw data which was available to
   </li>
     
   </ul>
+  
+  <br>
+  
+
+Interesting point to note that the top five products <br>
+
+AAA Batteries (4-pack), AA Batteries (4-pack), USB-C Charging Cable, Lightning Charging Cable, WiredHeadphones <br>
+
+that were sold in highest numbers (quantity)
+feature in the bottom five when it comes to total sales! This can be attributed to their relatively marginal
+price compared to products like <br>
+
+Macbook Pro Laptop, iPhone, ThinkPad Laptop <br>
+
+that top the total sales chart.
+
+
     
   
   </p>  
