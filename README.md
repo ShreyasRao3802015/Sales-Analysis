@@ -69,3 +69,21 @@ The first part of the process was to combine the raw data which was available to
  
 </p>
 
+<br>
+
+<h3> 4) What are the products that are most often sold together? </h3>
+  <p>
+    <br> I have answered the question with two groups :
+  <ul>
+  <li><h4> Top ten groups of Two Products sold Together </h4>
+       <img src="Images/Two products bought together.png">
+  </li>
+    <li> <h4>Top ten groups of Two Products sold Together </h4>
+      <img src="Images/Three Products bought together.png">
+    </li>
+  </ul>
+    
+  
+  </p>  
+ 
+</p>
