@@ -143,7 +143,7 @@ that top the total sales chart.
  
  <br>
   
-  <li>I thank <a href= 'https://www.linkedin.com/in/namrata-thukral-50550772/'>Namrata Thukral</a> who is a faculty at Great Learning for sparing time out of your busy schedule to review this project and providing valuable insights.
+  <li>Since this is my first Data Analysis project, I relied on <a href= 'https://www.kaggle.com/'>Kaggle</a> (needs no introduction in the Data Science realm) for acquiring the dataset. Thank you Kaggle for providing such a great platform for Data Science enthusiasts!
   </li>
  
  <br>
