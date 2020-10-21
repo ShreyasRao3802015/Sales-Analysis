@@ -63,7 +63,7 @@ The first part of the process was to combine the raw data which was available to
 
 <h3> 3) At what time should we display advertisements to maximize the liklihood of customer's buying product? </h3>
   <p>
-    <img src="Images/Analysis_3.png" width=750>
+    <img src="Images/Analysis_3.png" width=850, height=400>
   </p>  
  
 </p>
