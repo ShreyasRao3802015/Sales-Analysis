@@ -73,11 +73,12 @@ The first part of the process was to combine the raw data which was available to
 
 <h3> 4) What are the products that are most often sold together? </h3>
   <p>
-    <br> I have answered the question with two groups :
+    <br> I have answered the question with two groups : <br>
   <ul>
   <li><h4> Top ten groups of Two Products sold Together </h4>
        <img src="Images/Two products bought together.png">
   </li>
+    <br>
     <li> <h4>Top ten groups of Three Products sold Together </h4>
       <img src="Images/Three Products bought together.png">
     </li>
@@ -85,5 +86,22 @@ The first part of the process was to combine the raw data which was available to
     
   
   </p>  
- 
-</p>
+
+<br>
+
+<h3> 5) What product was sold the most? Any insights would be appreciated.. </h3>
+  <p>
+    <br> This problem could be tackled by two approaches : <br>
+  <ul>
+  <li><h4> Total Quantity Ordered </h4>
+       <img src="Images/Total Quantity Ordered Each Product.png">
+  </li>
+    <br>
+    <li> <h4>Total Sales </h4>
+      <img src="Images/Total Sales for Each Product.png">
+    </li>
+  </ul>
+    
+  
+  </p>  
+
