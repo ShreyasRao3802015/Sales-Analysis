@@ -131,12 +131,12 @@ that top the total sales chart.
 <ul>
   <li>I would like to thank my family for supporting my decision to pursue Data Science as career rather than sticking to my degree profession-Mechanical Engineer.</li>
   
-    <br>
+ <br>
   
   <li>Next I would like to thank Great Learning for giving quality (both theory and handson) education during the pandemic times. I am sure they had to go to great lengths to provide what was initially promised as an offline course in an online platform.
   </li>
     
-    <br>
+ <br>
   
   <li>I thank <a href= 'https://www.linkedin.com/in/namrata-thukral-50550772/'>Namrata Thukral</a> who is a faculty at Great Learning for sparing time out of your busy schedule to review this project and providing valuable insights.
   </li>
