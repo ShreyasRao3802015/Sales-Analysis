@@ -1,13 +1,15 @@
 <h1> Sales-Analysis </h1>
+<br>
 <h2> Table of Content </h2>
 
 <ul>
   <li><a href='#overview'>Overview</a></li>
   <li><a href='#motivation'>Motivation</a></li>
   <li><a href='#analysis'>Analysis Highlights</a></li>
+  <li><a href='#credits'>Credits</a></li>
   
 </ul> 
-<br><br>
+<br>
 
 <h2 id = 'overview'> Overview </h2>
 <p>
@@ -117,9 +119,24 @@ price compared to products like <br>
      Macbook Pro Laptop, iPhone, ThinkPad Laptop 
 
 that top the total sales chart.
-
-
-    
   
   </p>  
+
+
+<br>
+
+
+<h2 id = 'credits'> Credits </h2>
+<p>
+I would like to thank my family for supporting my decision to pursue Data Science as career rather than sticking to my degree profession-Mechanical Engineer.
+<br>
+Next I would like to thank Great Learning for giving quality (both theory and handson) education during the pandemic times. I am sure they had to go to great lengths to provide what was initially promised as an offline course in an online platform. 
+<br>
+I thank <a href= 'https://www.linkedin.com/in/namrata-thukral-50550772/'>Namrata Thukral</a> who is a faculty at Great Learning for sparing time out of your busy schedule to review this project and provide valuable insights.
+<br>
+Next on the list is <a href= 'https://www.kaggle.com/'>Kaggle</a> which needs no introduction in the Data Science realm. Without the dataset I got from Kaggle, this project would have been delayed by atleast a month so that I could learn Web Scraping to generate the dataset for the project.
+<br>
+Finally I would like to mention Stack Overflow. I was able to solve Part 4) (What are the products that are most often sold together?) by understanding how itertools and counter libraries can be leveraged. To check out the Stack Overflow page click <a href= 'https://stackoverflow.com/questions/52195887/counting-unique-pairs-of-numbers-into-a-python-dictionary'>here</a>.
+ 
+</p>
 
