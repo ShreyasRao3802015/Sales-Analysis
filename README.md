@@ -94,11 +94,11 @@ The first part of the process was to combine the raw data which was available to
     <br> This problem could be tackled by two approaches : <br>
   <ul>
   <li><h4> Total Quantity Ordered </h4>
-       <img src="Images/Total Quantity Ordered Each Product.png">
+       <img src="Images/Total Quantity Ordered Each Product.png" width=1000 height=400>
   </li>
     <br>
   <li><h4> Total Sales </h4>
-       <img src="Images/Sales Productwise.png">
+       <img src="Images/Sales Productwise.png" width=1000 height=400>
   </li>
     
   </ul>
