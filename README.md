@@ -16,7 +16,7 @@ I have used the Python Libraries Pandas and Matplotlib for answering the followi
   <ul>
   <li> What was the best month for sales? How much money was earned in that months?</li>
   <li> What city had the highest number of sales?</li>
-  <li> At what time should we display advertisements to maximize the liklihood of customer's buying product?</li>
+  <li> At what time should we display advertisements to maximize the likelihood of customer's buying product?</li>
   <li> What are the products that are most often sold together?</li>
   <li> What product was sold the most? Any insights would be appreciated..</li>
   </ul>
@@ -61,7 +61,7 @@ The first part of the process was to combine the raw data which was available to
 
 <br>
 
-<h3> 3) At what time should we display advertisements to maximize the liklihood of customer's buying product? </h3>
+<h3> 3) At what time should we display advertisements to maximize the likelihood of customer's buying product? </h3>
   <p>
     <br> Although this question makes much more sense if we are given the time period of advertisement the client can afford, the peaks seem to appear at 12pm and 7pm. The store saw negligible traffic during the post midnight to early morning period.
     <img src="Images/Analysis_3.png" width=1000, height=400>
