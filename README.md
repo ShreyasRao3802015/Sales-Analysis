@@ -78,7 +78,7 @@ The first part of the process was to combine the raw data which was available to
   <li><h4> Top ten groups of Two Products sold Together </h4>
        <img src="Images/Two products bought together.png">
   </li>
-    <li> <h4>Top ten groups of Two Products sold Together </h4>
+    <li> <h4>Top ten groups of Three Products sold Together </h4>
       <img src="Images/Three Products bought together.png">
     </li>
   </ul>
