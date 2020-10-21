@@ -98,7 +98,7 @@ The first part of the process was to combine the raw data which was available to
   </li>
     <br>
   <li><h4> Total Sales </h4>
-       <img src="Images/Total Sales for Each Product.png">
+       <img src="Images/Sales Productwise.png">
   </li>
     
   </ul>
