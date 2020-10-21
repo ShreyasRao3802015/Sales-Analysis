@@ -49,6 +49,8 @@ The first part of the process was to combine the raw data which was available to
     The highest sales occurs in the month of December. This surely doesnot come as a surprise owing to Christmas and New Year shopping spree.
   </p>
   
+<br>
+
 <h3> 2) What city had the highest number of sales? </h3>
   <p>
     <img src="Images/Analysis_2.png" width=750>
