@@ -43,6 +43,7 @@ This particular category (sales dataset) caught my attention because my first cl
 <p>
 The first part of the process was to combine the raw data which was available to us in 12 csv file for the 12 months into 1 DataFrame. After this, the data had to be cleaned, converted into respective data types and new columns had to be derived from existing columns before proceeding with the analysis.
 
+<br>
 <h3> 1) What was the best month for sales? How much money was earned in that months? </h3>
   <p>
     <img src="Images/Analysis_1.png" width=750> <br>
@@ -54,6 +55,15 @@ The first part of the process was to combine the raw data which was available to
 <h3> 2) What city had the highest number of sales? </h3>
   <p>
     <img src="Images/Analysis_2.png" width=750>
+  </p>  
+ 
+</p>
+
+<br>
+
+<h3> 3) At what time should we display advertisements to maximize the liklihood of customer's buying product? </h3>
+  <p>
+    <img src="Images/Analysis_3.png" width=750>
   </p>  
  
 </p>
